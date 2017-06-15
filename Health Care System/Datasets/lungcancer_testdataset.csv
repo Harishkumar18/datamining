@@ -1,0 +1,11 @@
+Age,Smoking Status,Years smoked,Average per day,Gender,Grade,Race,Height,Weight ,Family history,COPD,Year,Cancer
+58,Smoker,10,5,Male,Under Graduate,Asian,182,57,No,Yes,2008,
+56,Former Smoker,5,6,Male,Post Graduate,American Indian,170,80,Yes,No,2004,
+55,Non Smoker,0,0,Female,Nil,African American,182,85,No,No,2005,
+42,Smoker,12,5,Female,Nil,White,170,60,Yes,No,2004,
+35,Smoker,6,6,Female,Post Graduate,LatiNo,175,65,No,No,2004,
+36,Smoker,5,10,Male,Under Graduate,Asian,178,59,Yes,Yes,2003,
+45,Non Smoker,0,0,Male,Under Graduate,African American,187,70,No,No,2005,
+46,Non Smoker,0,0,Female,Post Graduate,White,187,54,No,No,2005,
+60,Former Smoker,13,5,Female,Nil,LatiNo,187,56,Yes,No,2005,
+48,Former Smoker,5,9,Male,Nil,Asian,187,58,Yes,Yes,2005,
